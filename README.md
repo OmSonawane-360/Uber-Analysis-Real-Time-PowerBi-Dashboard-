@@ -5,13 +5,6 @@ The dashboard helps stakeholders with **data-driven decision-making** in areas s
 
 ---
 
-## 🖼️ Preview  
-
-![Dashboard Preview](preview.png)  
-*(Replace `preview.png` with your screenshot or GIF of the dashboard)*  
-
----
-
 ## 📑 Table of Contents  
 - 🔎 [Overview](#overview)  
 - 🎯 [Why This Project](#why-this-project)  
@@ -127,3 +120,12 @@ It is divided into **3 interactive pages** for deep-dive analysis.
 - 📧 Contact: **ompatil0357@gmail.com**
 
  ---
+
+
+## 🖼️ Preview  
+
+![Dashboard Preview](https://github.com/OmSonawane-360/Uber-Analysis-Real-Time-PowerBi-Dashboard-/blob/main/Dashboard%20Preview/Overview_Analysis_Page.png)  
+
+
+---
+
