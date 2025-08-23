@@ -134,5 +134,5 @@ It is divided into **3 interactive pages** for deep-dive analysis.
 
 ---
 
-![Dashboard Preview]()  
+![Dashboard Preview](https://github.com/OmSonawane-360/Uber-Analysis-Real-Time-PowerBi-Dashboard-/blob/main/Dashboard%20Preview/Details_page.png)  
 
