@@ -9,7 +9,7 @@ The dashboard helps stakeholders with **data-driven decision-making** in areas s
 - 🔎 [Overview](#overview)  
 - 🎯 [Why This Project](#why-this-project)  
 - ✨ [Features](#features)  
-- 📊 [Dashboard Pages](#dashboard-pages)  
+- 📊 [Dashboard Pages](#dashboard-pages)   
 - 🌐 [Data Source](#data-source)  
 - ⚡ [Power BI Implementation](#power-bi-implementation)  
 - 🚀 [Getting Started](#getting-started)  
